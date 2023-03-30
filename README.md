@@ -22,3 +22,10 @@ Script uses CobraToolbox 3.0 functionality thus there is need to pre-install Cob
 
 Author : Agris Pentjuss
 license : GNU public license 3.0
+
+To run script use this :
+[Table_positive_contra_proportional, Table_negative_contra_proportional,Table_negative_directly_proportional,Table_positive_directly_proportional] = Up_Down_regulation_search(filename_model, Objective_calc, Biomass_name).
+
+To run test file use : Up_Down_regulation_search_tests.m
+and metabolic model can be taken from: iMT1026 (https://doi.org/10.1371/journal.pone.0148031)
+
